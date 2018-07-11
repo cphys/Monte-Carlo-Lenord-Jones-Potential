@@ -10,7 +10,7 @@ This project was done to introduce Mean Field approximation of various 2D lattic
 
 * The Energy in the limit of long length scales and the value of the lattice spacing for which the Energy is minimized will also be given as outputs. 
 
-## Getting Started
+## Places for Improvement
 
 * It is fairly straight forward to add new lattice structures. A hexagonal lattice structure would be usefull in studies of graphene.
 
