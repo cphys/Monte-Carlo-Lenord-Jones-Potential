@@ -1,4 +1,4 @@
-# Monte Carlo Simulation Assuming a Lenord Jones Potential on Various Lattices
+# Comparison of Numerical Methods Assuming a Lenord Jones Potential on Various Lattices
 
 This project was done to introduce Mean Field approximation of various 2D lattice models using a Lenord Jones potential. Compares accuracy and number of computation cycles of various numerical methods.
 
